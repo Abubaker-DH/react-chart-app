@@ -8,5 +8,8 @@
   width: 720px;
 }
 
+.line, .bar, .doughnut{
+  margin-bottom: 40px;
+}
 
 
